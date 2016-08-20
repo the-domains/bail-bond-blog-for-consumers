@@ -1,4 +1,3 @@
-layout_spectrum: 0.5539606153033674
 typography_spectrum: 0.9295047095511109
 color:
   brandStrength: 0.11662956164218485
@@ -11,4 +10,9 @@ color:
     - '#4E7AC7'
     - '#7FB2F0'
     - '#ADD5F7'
+layout_spectrum: 0.5539606153033674
+author:
+  name: Bonnie Merrick
+  email: bonnie@1stclassbailbonds.com
+  url: 'http://www.1stclassbailbonds.com'
 name: Bail Bond Blog For Consumers
